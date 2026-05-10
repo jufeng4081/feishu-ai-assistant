@@ -43,7 +43,7 @@
 
 ## 定价
 
-- **付费插件**：按 API 调用量计费（用户自备 DeepSeek API Key）
+- **暂时免费**：用户自备 DeepSeek API Key，无限次使用
 - 无额外订阅费，仅需支付 DeepSeek API 使用费（约 ¥10-50/月）
 
 ## 隐私与安全
