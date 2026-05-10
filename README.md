@@ -57,8 +57,8 @@
 - 开发框架：`@lark-opdev/block-basekit-server-api`
 - AI 模型：DeepSeek Chat / DeepSeek Reasoner
 - 运行时：飞书 FaaS 环境
-- 代码开源：[GitHub](https://github.com/your-org/feishu-ai-assistant)
-- 问题反馈：[Issues](https://github.com/your-org/feishu-ai-assistant/issues)
+- 代码开源：[GitHub](https://github.com/jufeng4081/feishu-ai-assistant)
+- 问题反馈：[Issues](https://github.com/jufeng4081/feishu-ai-assistant/issues)
 
 ## 开发者
 
