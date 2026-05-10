@@ -62,9 +62,9 @@
 
 ## 开发者
 
-- **开发者名称**：AI Data Assistant Team
-- **联系方式**：请通过 GitHub Issues 反馈问题
-- **飞书审核账号**：bitable-open@bytedance.com（仓库已授权）
+- **开发团队**：AI Data Assistant Team
+- **联系邮箱**：124581351@qq.com
+- **问题反馈**：[GitHub Issues](https://github.com/jufeng4081/feishu-ai-assistant/issues)
 
 ## 版本历史
 
